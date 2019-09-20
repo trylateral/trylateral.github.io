@@ -2,6 +2,9 @@
 layout: post
 title: Use this Powerful Tool and Avoid Talking Twaddle about Climate
 ---
+excerpt_separator: <!--more-->
+---
+
 #### The naked truth about the CO2 from our electricity
 
 Any discussion around sustainable energy tends to have the effect of generating large volumes of hot air. Advocates of coal power, renewable energy, and pro-nuclear lobbies are all guilty of talking twaddle in the defense of their favoured energy source. As David MacKay put it in his game-changing 2008 book Sustainable Energy — without the hot air (which you can get for free [here](http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf)):
@@ -9,6 +12,8 @@ Any discussion around sustainable energy tends to have the effect of generating 
 > Twaddle emissions are high at the moment because people get emotional (for example about wind farms or nuclear power) and no-one talks about numbers. Or if they do mention numbers, they select them to sound big, to make an impression, and to score points in arguments, rather than to aid thoughtful discussion.
 
 We can all be guilty of speaking twaddle when it suits us. Simple and effective tools like [electricityMap](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false) help cut through the twaddle and diffuse that hot air.
+
+<!--more-->
 
 I’m really impressed with how electricityMap has developed since I became aware of it a year or so ago. Here’s a summary of what electricityMap does:
 
