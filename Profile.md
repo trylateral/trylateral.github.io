@@ -42,6 +42,6 @@ Qualifications:
 
 Email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
 
-Linkedin: https://www.linkedin.com/in/davidjohnwatson/
+Linkedin: <https://www.linkedin.com/in/davidjohnwatson/>
 
-Twitter: https://twitter.com/ecopragmatist
+Twitter: <https://twitter.com/ecopragmatist>
