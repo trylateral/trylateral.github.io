@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV - Experience
+title: Experience
 permalink: /CV/
 ---
 
