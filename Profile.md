@@ -4,7 +4,7 @@ title: Profile
 permalink: /Profile/
 ---
 
-David is a Chartered Physicist with 10 years’ experience in the nuclear industry and a broad set of skills from safety analysis to community engagement. He has supported clients in Japan, France, the US and the UK, and speaks English, French and Spanish.
+David is a Chartered Physicist with 10 years’ experience in the nuclear industry and a broad skill set. He has supported clients in Japan, France, the US and the UK, and speaks English, French and Spanish.
 
 ### Nuclear safety and licensing
 
