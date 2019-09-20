@@ -18,6 +18,7 @@ Software:
 * RiskSpectrum
 * RiskWatcher
 * CAFTA
+* PACE (NAME)
 
 ### Project management
 
