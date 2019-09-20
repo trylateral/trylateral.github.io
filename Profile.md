@@ -4,7 +4,7 @@ title: Profile
 permalink: /Profile/
 ---
 
-Chartered physicist with 10 years’ experience in the nuclear industry and a broad skill set. I have supported clients in Japan, France, the US and the UK, and speak English, French and Spanish.
+David is a Chartered Physicist with 10 years’ experience in the nuclear industry and a broad set of skills from safety analysis to community engagement. He has supported clients in Japan, France, the US and the UK, and speaks English, French and Spanish.
 
 ### Nuclear safety and licensing
 
@@ -20,12 +20,12 @@ Software:
 * CAFTA
 
 Qualifications:
-* MPhys(Hons) Physics with Study in Europe
-* Chartered Physicist (CPhys) with Institute of Physics
+* MPhys(Hons) Physics with Study in Europe, University of Manchester
+* Chartered Physicist (CPhys) with the Institute of Physics
 * Fire Dynamics and Modelling Short Course, University of Leeds
-* EPRI/NRC-RES Fire PRA Training Modules 1, 3, and 5.
-* EDF Sizewell B Technical Specifications
-* EPRI Education of Risk Professionals (PRA) Modules 101, 102, 103
+* EPRI/NRC-RES Fire PRA Training Modules 1, 3, and 5, Washington DC/Charlotte NC
+* EDF Sizewell B Technical Specifications, SZB
+* EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC/Charlotte NC
 
 ### Project management
 
@@ -36,9 +36,9 @@ Qualifications:
 ### Strategy and communications
 
 * Editor-in-chief and writer for Generation Atomic online magazine
-* Able to support nuclear organisations to develop strategies around risk communication, innovation and the environmental benefits of nuclear power.
+* Able to support nuclear organisations to develop strategies around innovation, community engagement and communication of the risks and benefits of nuclear power.
 
-### Contact me
+### Get in touch
 
 Email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
 
