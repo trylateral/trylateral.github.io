@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience
-permalink: /CV/
+title: Profile
+permalink: /Profile/
 ---
 
 Chartered physicist with 10 years’ experience in the nuclear industry and a broad skill set. I have supported clients in Japan, France, the US and the UK, and speak English, French and Spanish.
