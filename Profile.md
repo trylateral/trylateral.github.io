@@ -19,14 +19,6 @@ Software:
 * RiskWatcher
 * CAFTA
 
-Qualifications:
-* MPhys(Hons) Physics with Study in Europe, University of Manchester
-* Chartered Physicist (CPhys) with the Institute of Physics
-* Fire Dynamics and Modelling Short Course, University of Leeds
-* EPRI/NRC-RES Fire PRA Training Modules 1, 3, and 5, Washington DC/Charlotte NC
-* EDF Sizewell B Technical Specifications, SZB
-* EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC/Charlotte NC
-
 ### Project management
 
 * Technical coordination and delivery
@@ -37,6 +29,17 @@ Qualifications:
 
 * Editor-in-chief and writer for Generation Atomic online magazine
 * Able to support nuclear organisations to develop strategies around innovation, community engagement and communication of the risks and benefits of nuclear power.
+
+### Qualifications
+
+* MPhys(Hons) Physics with Study in Europe, University of Manchester
+* Chartered Physicist (CPhys) with the Institute of Physics
+* Fire Dynamics and Modelling Short Course, University of Leeds
+* EPRI/NRC-RES Fire PRA Training Modules 1, 3, and 5, Washington DC/Charlotte NC
+* EDF Sizewell B Technical Specifications, SZB
+* EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC/Charlotte NC
+
+----
 
 ### Get in touch
 
