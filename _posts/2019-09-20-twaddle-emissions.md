@@ -3,8 +3,6 @@ layout: post
 title: Use this Powerful Tool and Avoid Talking Twaddle about Climate
 ---
 
-<!--more-->
-
 #### The naked truth about the CO2 from our electricity
 
 Any discussion around sustainable energy tends to have the effect of generating large volumes of hot air. Advocates of coal power, renewable energy, and pro-nuclear lobbies are all guilty of talking twaddle in the defense of their favoured energy source. As David MacKay put it in his game-changing 2008 book Sustainable Energy — without the hot air (which you can get for free [here](http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf)):
