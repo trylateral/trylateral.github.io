@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use this Powerful Tool and Avoid Talking Twaddle about Climate!
+title: Use this Powerful Tool and Avoid Talking Twaddle about Climate
 ---
 #### The naked truth about the CO2 from our electricity
 
