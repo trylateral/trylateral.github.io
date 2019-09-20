@@ -40,5 +40,6 @@ Qualifications:
 
 ### Contact me
 
-If you want to get in touch drop me an email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
-Or check me out on [Linkedin](https://www.linkedin.com/in/davidjohnwatson/) or [Twitter](https://twitter.com/ecopragmatist).
+Email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
+[Linkedin](https://www.linkedin.com/in/davidjohnwatson/)
+[Twitter](https://twitter.com/ecopragmatist).
