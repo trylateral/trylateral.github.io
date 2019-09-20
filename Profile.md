@@ -6,6 +6,8 @@ permalink: /Profile/
 
 David is a Chartered Physicist with 10 years’ experience in the nuclear industry and a broad skill set. He has supported clients in Japan, France, the US and the UK, and speaks English, French and Spanish.
 
+----
+
 ### Nuclear safety and licensing
 
 * **Safety case:** Safety case for UK nuclear clients such as EdF, Hitachi-GE, Rolls-Royce and Devonport Dockyard.
