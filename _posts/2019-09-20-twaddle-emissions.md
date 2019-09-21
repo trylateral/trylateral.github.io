@@ -5,13 +5,20 @@ title: Use this Powerful Tool and Avoid Talking Twaddle about Climate
 
 #### The naked truth about the CO2 from our electricity
 
-Any discussion around sustainable energy tends to have the effect of generating large volumes of hot air. Advocates of coal power, renewable energy, and pro-nuclear lobbies are all guilty of talking twaddle in the defense of their favoured energy source. As David MacKay put it in his game-changing 2008 book Sustainable Energy — without the hot air (which you can get for free [here](http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf)):
+![ElectricityMap for the EU]({{ site.baseurl }}/images/EU-electricity-map.png)
+*Carbon intensity of the electricity sector in Europe on 26/10/2018. Green = low carbon, Red = carbon-intensive.*
+
+Any discussion around sustainable energy tends to have the effect of generating large volumes of hot air. Advocates of coal power, renewable energy, and pro-nuclear lobbies are all guilty of talking twaddle in the defense of their favoured energy source. 
+
+<!--more-->
+
+As David MacKay put it in his game-changing 2008 book Sustainable Energy — without the hot air (which you can get for free [here](http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf)):
 
 > Twaddle emissions are high at the moment because people get emotional (for example about wind farms or nuclear power) and no-one talks about numbers. Or if they do mention numbers, they select them to sound big, to make an impression, and to score points in arguments, rather than to aid thoughtful discussion.
 
 We can all be guilty of speaking twaddle when it suits us. Simple and effective tools like [electricityMap](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false) help cut through the twaddle and diffuse that hot air.
 
-<!--more-->
+
 
 I’m really impressed with how electricityMap has developed since I became aware of it a year or so ago. Here’s a summary of what electricityMap does:
 
@@ -21,10 +28,6 @@ I’m really impressed with how electricityMap has developed since I became awar
 * Electricity price per country/region in last 24 hours.
 * You can turn on visualisations that show live wind and solar energy potential.
 * Data is available for most industrialised nations.
-
-![ElectricityMap for the EU]({{ site.baseurl }}/images/EU-electricity-map.png)
-*Carbon intensity of the electricity sector in Europe on 26/10/2018. Green = low carbon, Red = carbon-intensive.*
-
 
 On the day I wrote this article it wasn’t particularly sunny and not very windy either, so countries like Germany come out a dirty shade of orange:
 
