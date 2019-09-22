@@ -4,6 +4,7 @@ title: Walt Disney and Nuclear Power: A Forgotten History
 excerpt_separator: <!--more-->
 ---
 
+
 #### An optimist's dreams of an atom-powered future.
 
 If I were to say the words "Walt Disney", what images spring to mind? 
@@ -151,14 +152,14 @@ Our second wish was to tackle the world's hunger and disease. The Genie granted 
 ![Using the atom to grow more food]({{ site.baseurl }}/images/abundant-food.png)
 *The atom helps to grow more food for our growing population…*
 
-![Using the atom to grow more food]({{ site.baseurl }}/images/nuclear-medicine.png
+![Using the atom to grow more food]({{ site.baseurl }}/images/nuclear-medicine.png)
 *…and to fight diseases like cancers.*
 
 The narrator Heinz Haber advises that the third and final wish be carefully chosen…often in the old stories this is where the owner of the lamp makes a mistake. 
 
 Heinz Haber concludes that the third wish should simply be that the Genie forever remains our friend. In the end it is down to us to decide how we use the Genie's power, he says: "If we do it right, then the magic touch of the Genie will spread throughout the world, and he will grant the gifts of science to all mankind."
 
-![We must decide]({{ site.baseurl }}/images/spread-the-science.png
+![We must decide]({{ site.baseurl }}/images/spread-the-science.png)
 
 ****
 
