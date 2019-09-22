@@ -86,7 +86,7 @@ We had yet to find our magic source of energy; our "Genie".
 ![Fossil fuels poisoned the air]({{ site.baseurl }}/images/smokey-city.png)
 *…and its soot and ash choked our air.*
 
-We're told the story of Becquerel and the Curies discovering - by chance - the secret power of uranium and radium. The tiniest speck of these radioactive materials seemed to supply energy like an endlessly flowing spring. 
+We're told the story of Becquerel and the Curies discovering—by chance—the secret power of uranium and radium. The tiniest speck of these radioactive materials seemed to supply energy like an endlessly flowing spring. 
 
 These scientists had found a "Genie's lamp" that hinted at an almost magical source of energy.
 
@@ -96,6 +96,7 @@ These scientists had found a "Genie's lamp" that hinted at an almost magical sou
 Radioactivity seemed to violate all the laws of science. It took the brains of Albert Einstein to realise that trapped inside the finest particle of dust is an almost unimaginable amount of energy. As his famous equation puts it:
 
 > E =mc²
+
 > Energy = mass x speed of light x speed of light
 
 Just like the Fisherman, Einstein had found that a tremendous energy can be stored in a tiny vessel.
@@ -103,7 +104,7 @@ Just like the Fisherman, Einstein had found that a tremendous energy can be stor
 ![e = mc2]({{ site.baseurl }}/images/emc2.gif)
 *Einstein found that energy was equal to mass times the speed of light squared - a tiny mass contains a huge amount of energy.*
 
-But although we had our vessel, we had no way to get the energy out. It took until 1938 for Otto Hahn and Fritz Strassman to - like our Fisherman with his knife - break open an atom of uranium using a neutron gun. 
+But although we had our vessel, we had no way to get the energy out. It took until 1938 for Otto Hahn and Fritz Strassman to—like our Fisherman with his knife—break open an atom of uranium using a neutron gun. 
 
 These two scientists discovered something amazing: one neutron caused one uranium atom to split in two, but this then released two neutrons. By splitting the atom we could create a *chain reaction*.
 
@@ -117,7 +118,7 @@ One neutron was all it took to unleash the devasting power of the Genie. And hum
 ![Humanity's introduction to nuclear]({{ site.baseurl }}/images/genie-bomb.png)
 *The terrible power of the Genie is unleashed in the atomic bomb.*
 
-We were like the Fisherman when he first opened the vessel and was threatened by the Genie - we wished we'd never found the thing at all! 
+We were like the Fisherman when he first opened the vessel and was threatened by the Genie—we wished we'd never found the thing at all! 
 
 Many people argued the Genie should be put back into his vessel and never allowed out again. But once the world knew of the existence of the Genie, he could never really be shut away again.
 
@@ -162,11 +163,11 @@ Heinz Haber concludes that the third wish should simply be that the Genie foreve
 
 ****
 
-So 62 years ago, which of Walt Disney's predictions came true, and which didn't?
+So 62 years since the movie was released, which of Walt Disney's predictions came true, and which didn't?
 
 ### The first wish came true (sort of)
 
-The wish for clean, abundant power came true…sort of. Nuclear power *did* replace fossil fuels for electricity to some degree. In France, nuclear has almost entirely displaced fossil fuels from electricity generation.
+The wish for clean, abundant power came true…sort of. Nuclear power *did* replace fossil fuels for electricity to some degree. It was successful in some countries more than others. In France, nuclear has almost entirely displaced fossil fuels from electricity generation.
 
 Nuclear power grew rapidly during the 60s, 70s and 80s, but then stalled. The reason for this is related to the third wish.
 
@@ -178,13 +179,13 @@ The United Nations encouraged the use of nuclear techniques in food science. Man
 
 ### As with the old stories, our third wish let us down
 
-Just like Heinz Haber guessed, it is the third wish that let us down. Our wish that the Genie would forever remain our friend has been forgotten in many parts of the world. 
+Just like Heinz Haber guessed, it is the third wish that let us down. Our wish that the Genie would forever remain our friend has been forgotten in many parts of the world. 
 
 The Genie made some mistakes at Chernobyl in 1986. We were reminded of his terrible power. Instead of learning from that mistake, many of us became frightened of the Genie's potential to harm. We forgot that it is down to us to decide how we make use of his power.
 
 When there were meltdowns at Fukushima following the earthquake and tsunami in 2011, even though the Genie's power was relatively contained and harmed no one directly, our minds were filled once more with fears of the Genie.
 
-The fact we cannot fulfill our third wish - that the Genie be our friend - now may cause our first and second wishes to unravel. If we cannot learn to trust the Genie, to put his powers to good, we will never be able to make use of his ability to provide clean power, abundant food and vital medical techniques.
+The fact we cannot fulfill our third wish—that the Genie be our friend—now may cause our first and second wishes to unravel. If we cannot learn to trust the Genie, to put his powers to good, we will never be able to make use of his ability to provide clean power, abundant food and vital medical techniques.
 
 Given the growing urgency of the climate crisis, is it time to face our fears and embrace the power of the Genie?
 
