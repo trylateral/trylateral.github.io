@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Walt Disney and Nuclear Power: A Forgotten History
+excerpt_separator: <!--more-->
 ---
 
 #### An optimist's dreams of an atom-powered future.
