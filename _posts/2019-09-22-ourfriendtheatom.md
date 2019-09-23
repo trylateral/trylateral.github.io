@@ -167,7 +167,7 @@ So 62 years since the movie was released, which of Walt Disney's predictions cam
 
 ### The first wish came true (sort of)
 
-The wish for clean, abundant power came true…sort of. Nuclear power *did* replace fossil fuels for electricity to some degree. It was successful in some countries more than others. In France, nuclear has almost entirely displaced fossil fuels from electricity generation.
+The wish for clean, abundant power came true…sort of. Nuclear power *did* replace fossil fuels for electricity to some degree. It was more successful in some countries than others. In France, nuclear has almost entirely displaced fossil fuels from electricity generation.
 
 Nuclear power grew rapidly during the 60s, 70s and 80s, but then stalled. The reason for this is related to the third wish.
 
