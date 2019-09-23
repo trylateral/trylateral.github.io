@@ -15,13 +15,6 @@ David is a Chartered Physicist with 10 years’ experience in the nuclear indust
 * **Licensing:** Internal hazards licensing and regulatory support to Hitachi-GE during UK ABWR Generic Design Assessment. PCSR/PSAR author. 
 * **Fire Safety:** Expert fire safety analyst.
 
-Software:
-* CFAST
-* RiskSpectrum
-* RiskWatcher
-* CAFTA
-* PACE (NAME)
-
 ### Project management
 
 * Technical coordination and delivery
@@ -42,9 +35,18 @@ Software:
 * EDF Sizewell B Technical Specifications, SZB
 * EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC/Charlotte NC
 
+### Software
+* CFAST
+* RiskSpectrum
+* RiskWatcher
+* CAFTA
+* PACE (NAME)
+
 ----
 
 ### Get in touch
+
+If you're interested in the work I do, please get in touch.
 
 Email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
 
