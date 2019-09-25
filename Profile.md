@@ -12,7 +12,7 @@ David is a Chartered Physicist with 10 years’ experience in the nuclear indust
 
 * **Safety case:** Safety case for UK nuclear clients such as EdF, Hitachi-GE, Rolls-Royce and Devonport Dockyard.
 * **Probabilistic Safety Assessment:** Level 1, Level 3 and Fire PSA supporting UK Office for Nuclear Regulation, UK Dept for Business, Enterprise and Industrial Strategy, Hitachi-GE UK ABWR, First Energy Beaver Valley (PWR) and Sizewell B (PWR). 
-* **Licensing:** Internal hazards licensing and regulatory support to Hitachi-GE during UK ABWR Generic Design Assessment. PCSR/PSAR author. 
+* **Licensing:** Licensing and regulatory support to Hitachi-GE during UK ABWR Generic Design Assessment. PCSR/PSAR author. 
 * **Fire Safety:** Expert fire safety analyst.
 
 ### Project management
