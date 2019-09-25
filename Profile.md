@@ -33,7 +33,7 @@ David is a Chartered Physicist with 10 years’ experience in the nuclear indust
 * Fire Dynamics and Modelling Short Course, University of Leeds
 * EPRI/NRC-RES Fire PRA Training Modules 1, 3, and 5, Washington DC/Charlotte NC
 * EDF Sizewell B Technical Specifications, SZB
-* EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC/Charlotte NC
+* EPRI Education of Risk Professionals (PRA) Modules 101 to 103, Washington DC / Charlotte, NC
 
 ### Software
 * CFAST
