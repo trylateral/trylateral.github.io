@@ -18,29 +18,33 @@ But maybe it should.
 
 <!--more-->
 
-In 1957 the world was racing towards modernity. The USSR had just launched the world's first satellite, Sputnik 1, kicking off a space race between East and West. Meanwhile, the nuclear arms race had already been running for ten years, and in this year both the Soviets and the British tested their first H-bombs.
+It may surprise you to know that Walt Disney dreamed of an atom-powered future. And he wasn't alone.
 
-Although humanity was still dreaming up more impressive ways to destroy itself, 1957 was also the year the United States built its first commercial nuclear plant at Shippingport, Pennsylvania. It was a couple of years since the first nuclear-powered submarine, USS Nautilus, put to sea. Two years before that, President Eisenhower had launched the Atoms for Peace programme at the United Nations. It was designed to bring civilian nuclear power to nations around the world as long as they agreed not to develop the atom bomb.
+The late '50s was a time of great optimism for nuclear technology, with the first nuclear power plants being built around this time.
 
-So in 1957 when Mr Walt Disney himself commissioned a book and a film both titled Our Friend, the Atom, he wasn't alone in dreaming of an atom-powered future.
+But Walt Disney didn't just dream. If there was one thing that made him successful in life, it was his belief that you could *make your dreams come true*. This belief culminated in plans to power his new Disney World Florida megaproject with its own nuclear reactor. He even got [permission](https://www.forbes.com/sites/jamesconca/2019/02/21/disney-world-could-have-gone-nuclear/#5bf2e30e5393) to build one.
 
-What made Walt Disney different though, was his belief that you could make your dreams come true. Before his death in 1966, Walt Disney had plans to power his newest project, Disney World Florida, with its own nuclear reactor. He even got [permission](https://www.forbes.com/sites/jamesconca/2019/02/21/disney-world-could-have-gone-nuclear/#5bf2e30e5393) to build one.
+Walt Disney died in 1966 before Disney World was complete, and somewhere along the way the plans for a small nuclear reactor were abandoned. The park today has it's own methane gas plant and recently added a solar farm to provide intermittent renewable electricity.
 
-In the end, changing political currents led Disney to abandon their nuclear dreams, a move which sadly led them build a fossil fuel plant instead.
-
-The world is once again rethinking the role of nuclear in light of the dual crises of climate change and habitat destruction. Is there something to learn from the stories Walt Disney's movie has to tell about the power of the atom?
-
-### Our Friend the Atom
-
-Our Friend the Atom is a [fantastic short movie](https://www.youtube.com/watch?v=8PwllA-CyJU) that first featured as part of the Disneyland television show. It is both educational and entertaining, and apart from a few man-in-labcoat-with-pencil-pointing-at-stuff scenes, it has aged remarkably well.
-
-Walt Disney himself introduces the movie:
-
-> "Fiction often has a way of becoming fact. Not long ago, we brought you the immortal tale '20,000 Leagues under the Sea', featuring the famous submarine, Nautilus. According to the story, this craft was powered by a magic source. Today, that tale has come true. This is a model of the real Nautilus, the world's first atom-powered ship. It's the first example of the useful power of the atom that will drive the machines of our atomic age. The atom is our future."
+Evidence of Disney's atomic dreams is still visible today: the original  concept of Disney's *Tommorowland* parks was to showcase nuclear technology. Perhaps the greatest example of Disney's nuclear legacy is the educational movie, titled *Our Friend, the Atom*, commissioned in 1957 by Mr Walt Disney himself (there is also an accompanying book).
 
 The movie is incredibly positive about the future of nuclear power, predicting that nuclear will displace dirty fossil fuels as the way we produce electricity but also as a means to power our ships, planes and rockets (you could say Disney predicted 'deep decarbonization' with nuclear).
 
-The story is told using a beautiful analogy: that of the fable of The Fisherman and the Genie.
+The world is once again rethinking the role of nuclear in light of the dual crises of climate change and habitat destruction. *Our Friend, the Atom* shows how nuclear was once a source of hope for humanity.
+
+Perhaps it's time we once again sprinkled some Disney magic onto nuclear power?
+
+Let's take a look at the message of hope Walt Disney had for nuclear in 1957:
+
+### Our Friend the Atom
+
+*WARNING: SPOILER ALERT - the following contains spoilers from Our Friend, the Atom. In fact, I pretty much tell you everything that's going to happen.*
+
+Here's the [link](https://www.youtube.com/watch?v=8PwllA-CyJU) to the full movie.
+
+This is Disney, so of course the movie uses some fantastic storytelling to bring atomic science to life. The film's narrator is Heinz Haber, an accomplished science communicator. He tells us how he came to realise that the story of nuclear technology is a bit like the story of *The Fisherman and the Genie*.
+
+*The Fisherman and the Genie* is a story from *Arabian Nights* about a genie in a bottle granting three wishes - you know the one. Humankind is the Fisherman, the Genie and his power are nuclear technology. Let me explain.
 
 ****
 ![The Fisherman and the Genie]({{ site.baseurl }}/images/fisherman-book.png)
@@ -48,31 +52,33 @@ The story is told using a beautiful analogy: that of the fable of The Fisherman 
 
 ## The Fisherman and the Genie
 
-The Fisherman spends all day, every day toiling at the sea shore, casting his net out in the hope of catching something valuable. One day, he hauls in a strange lamp.
+In the story, The Fisherman spends all day, every day, toiling at the sea shore, casting his net out in the hope of catching something valuable. It's just like how scientists spend their lives in research, looking for the answers in the deep ocean of existence. One day, the Fisherman hauls in a strange lamp.
 
 ![The Fisherman finds his lamp]({{ site.baseurl }}/images/fisherman-lamp.png)
 *The Fisherman is smart: if someone took the trouble to seal the lamp then there must be something valuable inside.*
 
-The Fisherman is happy with his strange discovery. He finds the lamp tightly sealed with a lead stopper and decides: "If someone took the trouble to seal the lamp so well, there must be something valuable inside." 
+Just like when a scientist discovers something new, the Fisherman is happy with his strange discovery. He finds the lamp tightly sealed with a lead stopper and decides: "If someone took the trouble to seal the lamp so well, there must be something valuable inside." 
 
 The Fisherman takes his knife and forces open the lamp…and out shoots a powerful, magical being: the Genie.
 
 ![The Genie emerges from the lamp]({{ site.baseurl }}/images/genie-emerges.png)
 *The Genie emerges from the lamp.*
 
-The Genie was clearly a wonderous thing. At first, he threatens the Fisherman, and the Fisherman quickly understands the Genie's capacity to destroy when his magic is used for evil purposes.
+The Genie was clearly a wonderous thing. But then he threatens the Fisherman, and the Fisherman realises the Genie has the capacity to destroy when his magic is used for evil purposes.
 
 But the Fisherman is cunning. He traps the Genie back inside the lamp. The Fisherman only agrees to release the Genie if he will grant him three wishes.
 
 ![The Fisherman tricks the Genie]({{ site.baseurl }}/images/fisherman-trick.png)
 *The Fisherman manages to trap the Genie back inside his lamp. To release him, the Fisherman demands three wishes.*
 
-The movie explains how the story of nuclear is just like the Fisherman and the Genie. But before we get there, Disney take us on a journey through the history of atoms, molecules, steam power and electricity.
+The movie explains how the story of nuclear is just like the Fisherman and the Genie. Once society unlocked the power of the atom, we had to find a way to use that power for good.
+
+We also learn about the wonders of electricity, the dirty fuels we feed it with, and how nuclear power might eliminate those dirty fuels.
 
 ![How the steam power works]({{ site.baseurl }}/images/steam-jar.png)
 *The movie includes a fantastic explanation of how steam power works using a jar of water and a flame.*
 
-We're shown how capturing the energy within steam allowed us to turn the first generators that provide electric power and light to our cities.
+We're shown how it was capturing the energy within steam that allowed us to turn the first generators to  provide electric power and light to our cities.
 
 ![Bringing electricity to the city]({{ site.baseurl }}/images/electric-light.png)
 
@@ -155,7 +161,7 @@ Our second wish was to tackle the world's hunger and disease. The Genie granted 
 ![Using the atom to grow more food]({{ site.baseurl }}/images/nuclear-medicine.png)
 *…and to fight diseases like cancers.*
 
-The narrator Heinz Haber advises that the third and final wish be carefully chosen…often in the old stories this is where the owner of the lamp makes a mistake. 
+The narrator Heinz Haber advises that the third and final wish be carefully chosen…often in the old stories this is where the owner of the lamp makes a fatal mistake.
 
 Heinz Haber concludes that the third wish should simply be that the Genie forever remains our friend. In the end it is down to us to decide how we use the Genie's power, he says: "If we do it right, then the magic touch of the Genie will spread throughout the world, and he will grant the gifts of science to all mankind."
 
@@ -179,15 +185,15 @@ The United Nations encouraged the use of nuclear techniques in food science. Man
 
 ### As with the old stories, our third wish let us down
 
-Just like Heinz Haber guessed, it is the third wish that let us down. Our wish that the Genie would forever remain our friend has been forgotten in many parts of the world. 
+Just like Heinz Haber guessed, it is the third wish that let us down; our wish that the Genie would forever remain our friend has been forgotten in many parts of the world. 
 
 The Genie made some mistakes at Chernobyl in 1986. We were reminded of his terrible power. Instead of learning from that mistake, many of us became frightened of the Genie's potential to harm. We forgot that it is down to us to decide how we make use of his power.
 
 When there were meltdowns at Fukushima following the earthquake and tsunami in 2011, even though the Genie's power was relatively contained and harmed no one directly, our minds were filled once more with fears of the Genie.
 
-The fact we cannot fulfill our third wish—that the Genie be our friend—now may cause our first and second wishes to unravel. If we cannot learn to trust the Genie, to put his powers to good, we will never be able to make use of his ability to provide clean power, abundant food and vital medical techniques.
+The fact we cannot fulfill our third wish - that the Genie be our friend - now may cause our first and second wishes to unravel. If we don't learn to trust the Genie, to put his powers to good, we will never be able to make use of his ability to provide clean power, abundant food and vital medical techniques.
 
-Given the growing urgency of the climate crisis, is it time to face our fears and embrace the power of the Genie?
+Given the growing urgency of the climate crisis, is it time to face our fears and embrace the power of the Genie? Is it time to sprinkle some Disney magic on our dreams of the atom?
 
 ****
 You can also read this piece in the [Generation Atomic magazine](https://medium.com/generation-atomic/).
