@@ -44,6 +44,16 @@ Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 
 You can read my full CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 
+### Some of my work
+
+I wrote an [imagined 100-year review](https://medium.com/generation-atomic/2115-a-100-year-review-of-ecomodernism-43779c8f5d14) of the *Ecomodernism* movement.
+
+My [letter in the Financial Times](https://www.ft.com/content/c68c8538-1a71-11e9-9e64-d150b3105d21) in response to the cancelling of the Wylfa Newydd project.
+
+I was [interviewed for the Sustainability Times](https://www.sustainability-times.com/environmental-protection/un-mass-extinction-report-highlights-urgency-of-decarbonization/) about the UN's 2019 species mass extinction report.
+
+You can read some of my writing on my [blog](http://davidjwatson.com/) and much more on [Medium]()https://medium.com/@DavidWatsonBlog.
+
 ----
 
 ### Get in touch
