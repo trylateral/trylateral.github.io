@@ -52,7 +52,7 @@ My [letter in the Financial Times](https://www.ft.com/content/c68c8538-1a71-11e9
 
 I was [interviewed for the Sustainability Times](https://www.sustainability-times.com/environmental-protection/un-mass-extinction-report-highlights-urgency-of-decarbonization/) about the UN's 2019 species mass extinction report.
 
-You can read some of my writing on my [blog](http://davidjwatson.com/) and much more on [Medium]()https://medium.com/@DavidWatsonBlog.
+You can read some of my writing on my [blog](http://davidjwatson.com/) and much more on [Medium](https://medium.com/@DavidWatsonBlog).
 
 ----
 
