@@ -12,7 +12,7 @@ Check out my writing [here](https://medium.com/@DavidWatsonBlog).
 
 Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 
-![ElectricityMap for the EU]({{ site.baseurl }}/images/atom-river.png)
+![River scene]({{ site.baseurl }}/images/atom-river.png)
 
 ### Skills
 
@@ -65,3 +65,5 @@ Email: [david@davidjwatson.com](mailto:david@davidjwatson.com)
 Linkedin: <https://www.linkedin.com/in/davidjohnwatson/>
 
 Twitter: <https://twitter.com/ecopragmatist>
+
+![Forest scene]({{ site.baseurl }}/images/2.png)
