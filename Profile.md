@@ -8,27 +8,23 @@ David is a chartered physicist who brings fresh thinking to the nuclear industry
 
 David sees clean, abundant and sustainable atomic energy as a vital tool in preserving our wild spaces for a future where humankind will be more numerous and prosperous than ever before.
 
+Check out my writing [here](https://medium.com/@DavidWatsonBlog).
+
+Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
+
 ![ElectricityMap for the EU]({{ site.baseurl }}/images/atom-river.png)
 
-----
+### Skills
 
-### Nuclear safety and licensing
-
-* **Safety case:** Safety case for UK nuclear clients such as EdF, Hitachi-GE, Rolls-Royce and Devonport Dockyard.
-* **Probabilistic Safety Assessment:** Level 1, Level 3 and Fire PSA supporting UK Office for Nuclear Regulation, UK Dept for Business, Enterprise and Industrial Strategy, Hitachi-GE UK ABWR, First Energy Beaver Valley (PWR) and Sizewell B (PWR). 
-* **Licensing:** Licensing and regulatory support to Hitachi-GE during UK ABWR Generic Design Assessment. PCSR/PSAR author. 
-* **Fire Safety:** Expert fire safety analyst.
-
-### Project management
-
-* Technical coordination and delivery
-* Project management and budget control for 20+ staff 
-* Experience leading £1mil+ projects from bid/tender stage to delivery
-
-### Strategy and communications
-
-* Editor-in-chief and writer for Generation Atomic online magazine
-* Able to support nuclear organisations to develop strategies around innovation, community engagement and communication of the risks and benefits of nuclear power.
+* Safety case for UK nuclear clients such as EdF, Hitachi-GE, Rolls-Royce and Devonport Dockyard.
+* Level 1, Level 3 and Fire PSA supporting UK ONR, UK BEIS, Hitachi-GE UK ABWR, First Energy Beaver Valley (PWR) and Sizewell B (PWR). 
+* GDA licensing and regulatory support
+* PCSR/PSAR author. 
+* Fire safety and modelling.
+* Project management and budget control for 20+ staff.
+* Persuasive writing.
+* Blogging and social media, including editor for Generation Atomic magazine.
+* Risk communication.
 
 ### Qualifications
 
@@ -45,6 +41,8 @@ David sees clean, abundant and sustainable atomic energy as a vital tool in pres
 * RiskWatcher
 * CAFTA
 * PACE (NAME)
+
+Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 
 ----
 
