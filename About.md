@@ -66,4 +66,4 @@ Linkedin: <https://www.linkedin.com/in/davidjohnwatson/>
 
 Twitter: <https://twitter.com/ecopragmatist>
 
-![Forest scene]({{ site.baseurl }}/images/2.png)
+![Forest scene]({{ site.baseurl }}/images/atom-forest.png)
