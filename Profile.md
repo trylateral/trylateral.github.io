@@ -8,6 +8,8 @@ David is a chartered physicist who brings fresh thinking to the nuclear industry
 
 David sees clean, abundant and sustainable atomic energy as a vital tool in preserving our wild spaces for a future where humankind will be more numerous and prosperous than ever before.
 
+![ElectricityMap for the EU]({{ site.baseurl }}/images/atom-river.png)
+
 ----
 
 ### Nuclear safety and licensing
