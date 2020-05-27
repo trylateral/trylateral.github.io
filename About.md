@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Profile
-permalink: /Profile/
+title: About
+permalink: /About/
 ---
 
 David is a chartered physicist who brings fresh thinking to the nuclear industry. He has ten years' experience in nuclear safety and is an outspoken nuclear advocate. David understands how to communicate the benefits of nuclear power to a broad audience, both through his writing and via presentations and webinars. He is accomplished in creating eye-catching material for social media. 
@@ -42,7 +42,7 @@ Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 * CAFTA
 * PACE (NAME)
 
-Grab a copy of my CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
+You can read my full CV [here]({{ site.baseurl }}/David-Watson-CV-NIC.pdf).
 
 ----
 
