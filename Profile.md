@@ -4,7 +4,9 @@ title: Profile
 permalink: /Profile/
 ---
 
-David is a Chartered Physicist with 10 years’ experience in the nuclear industry and a broad skill set. He has supported clients in Japan, France, the US and the UK, and speaks English, French and Spanish.
+David is a chartered physicist who brings fresh thinking to the nuclear industry. He has ten years' experience in nuclear safety and is an outspoken nuclear advocate. David understands how to communicate the benefits of nuclear power to a broad audience, both through his writing and via presentations and webinars. He is accomplished in creating eye-catching material for social media. 
+
+David sees clean, abundant and sustainable atomic energy as a vital tool in preserving our wild spaces for a future where humankind will be more numerous and prosperous than ever before.
 
 ----
 
