@@ -44,7 +44,9 @@ Since reading George Monbiot's book *Feral*, I've been hooked on the idea of rew
 
 The energy density of nuclear fuels allow us to power advanced civilisation on a tiny footprint. Not only that, but plentiful clean electricity could unlock vertical farming and other land-saving (but energy-intensive) tech. Getting this message out is hard when the rise of TikTok and Instagram has made the 7-second memory of a goldfish seem like a high bar to aim for.
 
-I put together the following infographic, which you can down also download as a pdf [here]({{ site.baseurl }}/Rewilding.pdf). Get sharing, I guess?
+I put together the below infographic, which you can also download as a pdf [here]({{ site.baseurl }}/Rewilding.pdf). 
+
+Get sharing, I guess?
 
 ![Rewilding infographic]({{ site.baseurl }}/images/Rewilding.png)
 
