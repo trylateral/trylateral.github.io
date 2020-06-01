@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Clean Energy and Rewilding Clash in Kent"
+title: "A Green ‘Catch 22’: When Clean Energy and Rewilding Clash"
 excerpt_separator: <!--more-->
 ---
 
-#### A coming crisis for clean energy?
+#### As renewables projects grow ever bigger in scale, the desire for clean energy is rubbing up against the needs of wildlife.
 
 There's a lot of talk of a "Green Revolution" for the post COVID-19 world. What does this mean?
 
@@ -14,7 +14,7 @@ So then, it's "all systems go", solar panels in every field, a wind turbine on e
 
 It's what renewables advocates have been telling us we should do for years.  But this week something weird happened. There was a glitch in the matrix, you might say. 
 
-The Green Party, RPSB, Greenpeace and the Campaign to Protect Rural England [came out in *opposition*](https://www.independent.co.uk/environment/cleve-hill-solar-farm-kent-biggest-uk-environment-battery-storage-safety-government-a9531361.html) to a proposed new solar farm in Kent. If that didn't seem strange enough, Friends of the Earth *support* it.
+The Green Party, RPSB, Greenpeace and the Campaign to Protect Rural England [came out in *opposition*](https://www.independent.co.uk/environment/cleve-hill-solar-farm-kent-biggest-uk-environment-battery-storage-safety-government-a9531361.html) to a proposed new solar farm in Kent. If that didn't seem strange enough, Friends of the Earth then came out in *support* of it.
 
 A schism in the green movement? What's going on? 
 
