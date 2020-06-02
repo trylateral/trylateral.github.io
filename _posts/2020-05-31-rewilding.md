@@ -34,11 +34,13 @@ In the same week, EDF was also in the news for publishing its planning applicati
 
 Kirsty Gogan (Energy for Humanity) responded "If [@RSPBMinsmere](https://twitter.com/RSPBMinsmere) and [@suffolkwildlife](https://twitter.com/suffolkwildlife) don't want [#SZC](https://twitter.com/hashtag/SZC?src=hashtag_click) (7 hectares) and want [#solar](https://twitter.com/hashtag/solar?src=hashtag_click) to supply the same amount of energy as [#SZC](https://twitter.com/hashtag/SZC?src=hashtag_click) this would require 77 solar projects the size of [#CleveHill](https://twitter.com/hashtag/CleveHill?src=hashtag_click) or a total 298 square kilometres...Achieving [#netzero](https://twitter.com/hashtag/netzero?src=hashtag_click) means hard choices."
 
+*Note: My understanding is that Sizewell C will occupy [32 hectares](https://www.bbc.co.uk/news/uk-england-suffolk-21099086), not 7, but the point stands.*
+
 The peak output of Cleve Hill would be 350 MW; that's more than nine times less than Sizewell C's 3260 MW. Not only that, but UK government calculated the average capacity factor for solar in UK in 2018 was 10.8%; i.e. most of the time, the plant would deliver a tiny fraction of that headline 350 MW number.
 
 There is a paradox here: a drive to renewables to save nature is itself putting pressure on nature. And with Greenpeace facing off against Friends of the Earth, it seems green NGOs don't yet know how to resolve it.
 
-With anti-nuclearism such a core part of green identity, environmental NGOs may never see the solution to the paradox lies with nuclear power. The general public, on the other hand, would probably quickly grasp that using 7 hectares of land for reliable nuclear power is better than 29800 hectares for intermittent solar power. 
+With anti-nuclearism such a core part of green identity, environmental NGOs may never see the solution to the paradox lies with nuclear power. The general public, on the other hand, would probably quickly grasp that using 32 hectares of land for reliable nuclear power is better than 29800 hectares for intermittent solar power. 
 
 Since reading George Monbiot's book *Feral*, I've been hooked on the idea of rewilding; giving land back to wildlife and restoring natural systems. Unlike George Monbiot, I see us achieving rewilding through science, technology and progress rather than through de-growth and "going back to the land". 
 
