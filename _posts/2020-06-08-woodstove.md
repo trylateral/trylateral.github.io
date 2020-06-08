@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Wood Fires: Good For the Soul, But What About the Body?"
+title: "Wood Stoves and Biomass Plants: What Are They Good For?"
 excerpt_separator: <!--more-->
 ---
 
 #### Why your wood stove might be giving you more than just a warm, fuzzy feeling.
 
-![wood stove opening image](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-1.png)
+![wood stove opening image]({{ site.baseurl }}/images/woodstove-1.png)
 
 *Photo by [Michael Shannon](https://unsplash.com/@mgshannon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -16,7 +16,7 @@ The dancing flames, the crackling wood, the heady woodsmoke. Fireside stories wi
 
 <!--more-->
 
-![family sitting around the fire](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-2.png)
+![family sitting around the fire]({{ site.baseurl }}/images/woodstove-2.png)
 
 *Cosying up around the fire is considered an innocent pursuit.*
 
@@ -32,13 +32,13 @@ In 2015 I journeyed by bicycle from Mexico to Costa Rica. I saw a lot of things,
 
 When I arrived in Central America, woodsmoke evoked for me those typical, nostalgic feelings we have for wood fires in rich countries. Fast-forward a few months and wood smoke meant for me only one thing: poverty. 
 
-![David camping at a restaurant in Mexico](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-3.png)
+![David camping at a restaurant in Mexico]({{ site.baseurl }}/images/woodstove-3.png)
 
 *A roadside restaurant in Yucutan, Mexico. That's my tent under the lean-to. With no modern sources of energy available, all the cooking was done over wood (I don't even think they had charcoal).*
 
 In Central America, many families and even restaurants rely on wood for all their cooking and hot water. Gathering and chopping wood is hard work, and women in particular inhale *vast* quantities of smoke during cooking. Wherever there was wood smoke, there was poverty. It took me a couple of years of being back in the UK to break the association.
 
-![David fixing his bike with kids](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-4.png)
+![David fixing his bike with kids]({{ site.baseurl }}/images/woodstove-4.png)
 
 *The kids at the restaurant got curious as I worked on my bike.*
 
@@ -50,25 +50,25 @@ It doesn't matter how efficient your burner is, there's no fire without smoke. A
 
 Where I live in the UK, the government has reported on many air pollutants since the 1970s, when many cities were shrouded in industrial smog. While there is an overall trend towards lower levels of particulate pollution thanks to the gradual phase out of coal power and the adoption of cleaner industrial practices, when it comes to particulates from domestic woodstoves, levels are the [highest they have been since 1990](https://www.gov.uk/government/publications/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-1970-to-2018-particulate-matter-pm10-and-pm25#trends-in-total-annual-emissions-of-pm10-and-pm25-in-the-uk-1970-to-2018).
 
-![PM2.5 air pollution in UK](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/Figure_PM2_5_sector.jpg)
+![PM2.5 air pollution in UK]({{ site.baseurl }}/images/Figure_PM2_5_sector.jpg)
 
 In the UK, there are reported to be [1.5 million wood-burning stoves in use](https://inews.co.uk/news/environment/wood-burning-stoves-trend-pollution-domestic-heating-398075), with around [200,000 more sold every year](http://www.stoveindustryalliance.com/newsarticle/?LatestNews_ID=10000&pPK=618f83d6-c438-4b35-9515-8c3b1aa76bf9). Shockingly, [recent figures](https://www.gov.uk/government/publications/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-1970-to-2018-particulate-matter-pm10-and-pm25#trends-in-total-annual-emissions-of-pm10-and-pm25-in-the-uk-1970-to-2018) show that "the use of wood in domestic combustion activities accounted for 38 per cent of PM2.5 emissions in 2018." 
 
 Pollution from wood stoves and fireplaces in the home are troubling because people, including young children and pregnant women, may be sat mere feet away from the fire. They also tend to be used more at the weekend when wood-burning families (and their unwitting victims, their neighbours) are likely to be in their homes.
 
-![Smoke coming from chimneys of village](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-5.png)
+![Smoke coming from chimneys of village]({{ site.baseurl }}/images/woodstove-5.png)
 
 *When it's just one house with a wood fire, it's OK. But what about two, three, four...the whole town?*
 
 Wood burning fires are very rarely used as the primary source of heating, with data from the UK suggesting only [8% of homes with wood burners](https://uk-air.defra.gov.uk/assets/documents/reports/cat11/1708081027_170807_AQEG_Biomass_report.pdf) rely on them as the primary source of heating. Wood burners are providing something else then: a connection to imagined simpler times, perhaps? A link to our prehistoric ancestors? 
 
-![Family sitting around a campfire](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-6.png)
+![Family sitting around a campfire]({{ site.baseurl }}/images/woodstove-6.png)
 
 *Occasional wood fire indulgence is not the problem - integrating wood burning into your daily life is.*
 
 I get it, I really do. I still enjoy a good campfire once a year at my friend's outdoorsy birthday, or the occasional wood-fired BBQ (maybe even that is too much and I should switch to gas?). But once you realise that a wood-burning stove might be kicking out more particulates than an [HGV or up to 18 diesel cars](https://uk-air.defra.gov.uk/assets/documents/reports/cat11/1708081027_170807_AQEG_Biomass_report.pdf), you start to question: **is it really worth it?**
 
-![passive smoking is dangerous](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-7.png)
+![passive smoking is dangerous]({{ site.baseurl }}/images/woodstove-7.png)
 
 *Perhaps environmental orgs could learn something from campaigns on the risks of passive smoking.*
 
@@ -84,7 +84,7 @@ The paper goes onto to look at how long it takes to "pay back" the carbon releas
 
 Not only is burning trees not low carbon, it also destroys forest habitat on a massive scale. Organisations like the [Dogwood Alliance](https://www.dogwoodalliance.org/2019/04/a-thousand-foot-view-of-industrial-logging/) have uncovered unsustainable practices at one of the world's largest biomass producers, Enviva. Much of Enviva's wood is shipped all the way to the UK to be burned in modified coal power plants for green subsidies. A single UK plant, Drax, received a whopping [£789.5 million in green subsidies from burning trees in 2019 alone](https://www.biofuelwatch.org.uk/axedrax-campaign/#C3).
 
-![Northampton Enviva wood pellet processing facility](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-8.png)
+![Northampton Enviva wood pellet processing facility]({{ site.baseurl }}/images/woodstove-8.png)
 
 *Enviva’s Northampton facility, which has a production capacity of 510,000 metric tons of wood pellets per year. Enviva recently filed an application to expand this enormous facility (Image courtesy [Dogwood Alliance](https://www.dogwoodalliance.org/2019/04/a-thousand-foot-view-of-industrial-logging/)).*
 
@@ -98,7 +98,7 @@ But it's not always windy and the sun goes down every night. What can fill the g
 
 It doesn't have to be that way. There are three other sources that can produce low-carbon, always on power: hydro, geothermal and nuclear. Pick the one that suits your geography and tastes, and go for it. There's still time.
 
-![We know how to decarbonise](C:/Users/mail/OneDrive/Documents/Blog/{{ site.baseurl }}/images/woodstove-9.png)
+![We know how to decarbonise]({{ site.baseurl }}/images/woodstove-9.png)
 
 *[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear.*
 
