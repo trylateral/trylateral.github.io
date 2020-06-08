@@ -100,7 +100,7 @@ It doesn't have to be that way. There are three other sources that can produce l
 
 ![We know how to decarbonise]({{ site.baseurl }}/images/woodstove-9.png)
 
-*[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear.*
+*[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear will do it.*
 
 #### A green future?
 
