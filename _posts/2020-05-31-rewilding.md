@@ -18,8 +18,7 @@ The Green Party, RPSB, Greenpeace and the Campaign to Protect Rural England [cam
 
 A schism in the green movement? What's going on? 
 
-![Salt marshes]({{ site.baseurl }}/images/salt-marsh.jpg)
-
+![Salt marshes]({{ site.baseurl }}/images/salt-marsh.jpg) 
 *Salt marsh - will Cleve Hill ever be restored to something like this? (Photo by [Biel Morro](https://unsplash.com/@bielmorro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
 <!--more-->
