@@ -10,7 +10,7 @@ We urgently need to decarbonise energy if we are to prevent catastrophic global 
 
 Do you find that shocking? You're not alone. I only ask you give me a chance to explain. 
 
-Take a look at my [blog]({{ site.baseurl }}/blog) or writing on [Medium](https://medium.com/@DavidWatsonBlog). Read positive stories about how nuclear can play its part in us reaching Net Zero. See how nuclear requires less mining and puts less pressure on the land than any clean alternative. Look at the energy systems modelling that shows firm, low-carbon sources like nuclear make deep decarbonisation more affordable. Think about how rich countries have a moral responsibility to bring clean, reliable and affordable energy to the developing world. 
+Take a look at my [blog](/blog) or writing on [Medium](https://medium.com/@DavidWatsonBlog). Read positive stories about how nuclear can play its part in us reaching Net Zero. See how nuclear requires less mining and puts less pressure on the land than any clean alternative. Look at the energy systems modelling that shows firm, low-carbon sources like nuclear make deep decarbonisation more affordable. Think about how rich countries have a moral responsibility to bring clean, reliable and affordable energy to the developing world. 
 
 If you do that and still think I'm wrong, then fair enough. Either way, please leave me a comment or get in touch with me by email or social media. I want to hear from you.
 
