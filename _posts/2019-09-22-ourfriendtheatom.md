@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 
 #### An optimist's dreams of an atom-powered future.
 
+![Our friend the atom hand]({{ site.baseurl }}/images/hand.jpeg)
+
 If I were to say the words "Walt Disney", what images spring to mind? 
 
 The adventures of Mickey Mouse? Daring Peter Pan? Snow White, Cinderella and sparkling princesses? Maybe the times you cried when Mufassa died and when Andy left Woody to go to college?
@@ -13,8 +15,6 @@ The adventures of Mickey Mouse? Daring Peter Pan? Snow White, Cinderella and spa
 There's one thing I'm certain "Walt Disney" doesn't make you think of: nuclear power. 
 
 But maybe it should.
-
-![Our friend the atom hand]({{ site.baseurl }}/images/hand.jpeg)
 
 <!--more-->
 
