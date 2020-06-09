@@ -97,6 +97,8 @@ It doesn't have to be that way. There are three other sources that can produce l
 
 In the late 80s, wood burning stoves looked like they were going to disappear in rich countries because, simply put, they are inferior to the alternatives. Their recent return to popularity is part of a wider anti-progress movement that includes organic food and a preference for "natural" ingredients. Only when this lifestyle trend fades in favour of technological progress and human health are we likely to see any change. That, or if governments crack down on domestic air pollution like London did following the lethal [Great Smog of 1952](https://en.wikipedia.org/wiki/Clean_Air_Act_1956).
 
+Such a ban may be coming in the near future in some countries. The UK government has already [announced plans](https://www.bbc.co.uk/news/uk-51581817) to make illegal the selling of coal for domestic fires by 2023. By February 2021, the bags of wood sold on garage forecourts around the country must be dry (AKA seasoned) wood, which has lower emissions that wet (AKA green) wood.
+
 As for biomass for electricity, recent documentaries like *Planet of the Humans*, error strewn though it is, have raised the biomass issue up the agenda. I feel (hope) that this strange industry will slowly start to lose political support in favour of other firm, low-carbon alternatives.
 
 ### Further reading
