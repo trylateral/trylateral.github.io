@@ -6,6 +6,9 @@ excerpt_separator: <!--more-->
 
 #### As renewables projects grow ever bigger in scale, the desire for clean energy is rubbing up against the needs of wildlife.
 
+![Salt marshes]({{ site.baseurl }}/images/salt-marsh.jpg) 
+*Salt marsh - will Cleve Hill ever be restored to something like this? (Photo by [Biel Morro](https://unsplash.com/@bielmorro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+
 There's a lot of talk of a "Green Revolution" for the post COVID-19 world. What does this mean?
 
 With the UK economy likely entering an historic recession, there's a search for ideas to kickstart the country. A green recovery is one driven by investments in clean energy to tackle carbon emissions, lower air pollution and restore nature. A noble goal. 
@@ -17,9 +20,6 @@ It's what renewables advocates have been telling us we should do for years.  But
 The Green Party, RPSB, Greenpeace and the Campaign to Protect Rural England [came out in *opposition*](https://www.independent.co.uk/environment/cleve-hill-solar-farm-kent-biggest-uk-environment-battery-storage-safety-government-a9531361.html) to a proposed new solar farm in Kent. If that didn't seem strange enough, Friends of the Earth then came out in *support* of it.
 
 A schism in the green movement? What's going on? 
-
-![Salt marshes]({{ site.baseurl }}/images/salt-marsh.jpg) 
-*Salt marsh - will Cleve Hill ever be restored to something like this? (Photo by [Biel Morro](https://unsplash.com/@bielmorro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
 <!--more-->
 
