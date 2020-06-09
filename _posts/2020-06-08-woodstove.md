@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wood Stoves and Biomass Plants: What Are They Good For?"
+header-img: "{{ site.baseurl }}/images/woodstove-5.png"
 excerpt_separator: <!--more-->
 ---
 
