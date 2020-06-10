@@ -66,7 +66,7 @@ I get it, I really do. I still enjoy a good campfire once a year at my friend's 
 ![passive smoking is dangerous]({{ site.baseurl }}/images/woodstove-7.png)
 *Perhaps environmental orgs could learn something from campaigns on the risks of passive smoking.*
 
-## Trees, not coal
+## Trees vs fossil fuels
 
 Leaving aside air pollution, at least burning wood is climate friendly, right? Well, let’s just say: “it’s complicated”.
 
