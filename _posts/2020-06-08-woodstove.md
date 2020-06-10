@@ -68,28 +68,32 @@ I get it, I really do. I still enjoy a good campfire once a year at my friend's 
 
 ## Trees, not coal
 
-Leaving aside air pollution, at least burning wood is climate friendly, right? Let's set the bar really low: we won't compare burning wood with another low-carbon energy source like solar or nuclear. Let's ask, "Is burning wood better for the climate than burning coal?"
+Leaving aside air pollution, at least burning wood is climate friendly, right? Well, let’s just say: “it’s complicated”.
 
-That question has to be answered in two parts: firstly, does burning wood release more CO2 than burning coal? Secondly, will new trees grow in the future to make up for the carbon released from burning wood today?
+I got in touch with [Dr Pushker Kharecha](https://www.earth.columbia.edu/users/profile/pushker-a-kharecha) at the Columbia University Earth Institute. He explained that biomass has lower emissions than coal in most situations, and sometimes lower even than natural gas. But carbon emissions vary wildly from one biomass plant to another.
 
-According to [Sterman et al.'s paper](https://iopscience.iop.org/article/10.1088/1748-9326/aaa512/meta), the answer to the first question is an emphatic "no". It's down to basic physics. Put simply, burning wood produces more CO2 per unit of useful energy than does coal. So replacing coal with wood means more CO2 out the stack today.
+Dr Kharecha explained that “the most important factor is usually the source of the feedstocks.” Feedstocks are the fuel being burned. These feedstocks can range from clearcut forests to garbage, and everything in between. Basically anything organic can be burned.
 
-The paper goes onto to look at how long it takes to "pay back" the carbon released from burning the wood by growing new forest. The results are quite surprising: "The payback time for this carbon debt ranges from 44–104 years after clearcut, depending on forest type—assuming the land remains forest."
+“Broadly speaking,” Dr Kharecha continued, “municipal/industrial wastes and residues are the most beneficial [feedstocks] compared to fossil fuels, followed by ‘2nd generation’ feedstocks (e.g. perennial grasses grown on marginal/degraded lands, algal fuels grown on non-productive lands, etc). The optimal sources are those that don’t compete with existing land use or natural ecosystems.”
 
-Not only is burning trees not low carbon, it also destroys forest habitat on a massive scale. Organisations like the [Dogwood Alliance](https://www.dogwoodalliance.org/2019/04/a-thousand-foot-view-of-industrial-logging/) have uncovered unsustainable practices at one of the world's largest biomass producers, Enviva. Much of Enviva's wood is shipped all the way to the UK to be burned in modified coal power plants for green subsidies. A single UK plant, Drax, received a whopping [£789.5 million in green subsidies from burning trees in 2019 alone](https://www.biofuelwatch.org.uk/axedrax-campaign/#C3).
+This issue was also highlighted in the UN IPCC’s [Special Report on Climate Change and Land](https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/03_Technical-Summary-TS.pdf), which stated that “large-scale implementation of dedicated biomass production for bioenergy increases competition for land with potentially serious consequences for food security and land degradation.”
+
+It’s exactly this large-scale production of biomass that has raised eyebrows among the environmental community. The allegation is that many biomass feedstocks are harvested in unsustainable ways.
 
 ![Northampton Enviva wood pellet processing facility]({{ site.baseurl }}/images/woodstove-8.png)
 *Enviva’s Northampton facility, which has a production capacity of 510,000 metric tons of wood pellets per year. Enviva recently filed an application to expand this enormous facility (Image courtesy [Dogwood Alliance](https://www.dogwoodalliance.org/2019/04/a-thousand-foot-view-of-industrial-logging/)).*
 
-What's the deal, then? Why do renewables advocates and even the EU Commission support burning trees to produce electricity? 
+Organisations like the [Dogwood Alliance](https://www.dogwoodalliance.org/2019/04/a-thousand-foot-view-of-industrial-logging/) claim to have uncovered unsustainable practices at one of the world's largest biomass producers, Enviva. Much of Enviva's wood is shipped all the way to the UK to be burned in modified coal power plants for green subsidies. A single UK plant, Drax, received a whopping [£789.5 million in green subsidies from burning trees in 2019 alone](https://www.biofuelwatch.org.uk/axedrax-campaign/#C3).
+
+With the benefits mixed at best, why do many institutions like the EU Commission support burning trees to produce electricity?
 
 ## What's green and keeps the lights on?
 
 Things have got confused. The world is searching for low-carbon power. Solar and wind produce electricity with zero emissions (at the point of generation). Solar and wind are renewable. Therefore, renewable is good?
 
-But it's not always windy and the sun goes down every night. What can fill the gap to meet electricity demand? Trees can be burned 24/7, whatever the weather. Trees are renewable. Burning trees is good?
+But it’s not always windy and the sun goes down every night. What can fill the gap to meet electricity demand? Biomass can be burned 24/7, whatever the weather. Biomass is renewable. Biomass is good? It seems like the picture is much more complex than that. The question is, “is there a non-fossil alternative to biomass?”
 
-It doesn't have to be that way. There are three other sources that can produce low-carbon, always on power: hydro, geothermal and nuclear. Pick the one that suits your geography and tastes, and go for it. There's still time.
+There are three other sources that can produce low-carbon, always on power: hydro, geothermal and nuclear. Pick the one that suits your geography and tastes, and go for it. There’s still time.
 
 ![We know how to decarbonise]({{ site.baseurl }}/images/woodstove-9.png)
 *[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear will do it.*
@@ -102,15 +106,8 @@ Such a ban may be coming in the near future in some countries. The UK government
 
 As for biomass for electricity, recent documentaries like *Planet of the Humans*, error strewn though it is, have raised the biomass issue up the agenda. I feel (hope) that this strange industry will slowly start to lose political support in favour of other firm, low-carbon alternatives.
 
-### Further reading
+----
 
-* It's linked above, but [this article](https://theconversation.com/blame-wood-burning-stoves-for-winter-air-pollution-and-health-threats-110662) in *The Conversation* provided much inspiration for this piece, and was also a really good read.
-* [UK particular matter pollution, 1970-2018](https://www.gov.uk/government/publications/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-1970-to-2018-particulate-matter-pm10-and-pm25#trends-in-total-annual-emissions-of-pm10-and-pm25-in-the-uk-1970-to-2018)
-* "[Trend for wood burning stoves pushes pollution from domestic heating to record levels](https://inews.co.uk/news/environment/wood-burning-stoves-trend-pollution-domestic-heating-398075)", *The i*, Feb 2020
-* "[Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy](https://iopscience.iop.org/article/10.1088/1748-9326/aaa512/meta)", Sterman et al.'s paper
-* "[The Potential Air Quality Impacts from Biomass Combustion](https://uk-air.defra.gov.uk/assets/documents/reports/cat11/1708081027_170807_AQEG_Biomass_report.pdf)", UK Air Quality Expert Group, 2017
+#### Further reading
 
-
-
-
-
+*This article was corrected on the 10th of June. Originally it suggested that biomass had higher carbon emissions than coal, whereas most biomass studies indicate emissions lower than that of coal.*
