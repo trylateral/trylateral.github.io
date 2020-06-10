@@ -108,6 +108,6 @@ As for biomass for electricity, recent documentaries like *Planet of the Humans*
 
 ----
 
-#### Further reading
+#### Correction
 
 *This article was corrected on the 10th of June. Originally it suggested that biomass had higher carbon emissions than coal, whereas most biomass studies indicate emissions lower than that of coal.*
