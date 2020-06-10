@@ -16,6 +16,9 @@ Take a look at my [blog]({{ site.baseurl }}/) or writing on [Medium](https://med
 
 If you do that and still think I'm wrong, then fair enough. Either way, please leave me a comment or get in touch with me by email or social media. I want to hear from you.
 
+*"Science is humble. It knows what it knows and it knows what it doesn't know. It bases its conclusions and beliefs on hard evidence—evidence that is constantly updated and upgraded. It doesn't get offended when new facts come along."
+⁠— Ricky Gervais*
+
 ----
 
 ### Some of my work
