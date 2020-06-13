@@ -96,7 +96,7 @@ But it’s not always windy and the sun goes down every night. What can fill the
 There are three other sources that can produce low-carbon, always on power: hydro, geothermal and nuclear. Pick the one that suits your geography and tastes, and go for it. There’s still time.
 
 ![We know how to decarbonise]({{ site.baseurl }}/images/woodstove-9.png)
-*[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear will do it.*
+*[Alastair McIvor](https://poetandengineer.com/2019/02/13/we-know-how-to-do-this/) put together this graphic showing the states that have built large electrical grids without significant use of fossil fuels or biomass: solar and wind plus some hydro or nuclear will do it. Note: where biomass is being used it is included with fossil fuels on this graphic.*
 
 ## A green future?
 
