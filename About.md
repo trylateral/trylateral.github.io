@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-![River scene]({{ site.baseurl }}/images/atom-river.png)
+![atomic trends logo]({{ site.baseurl }}/images/logo-compressed.png)
 
 The world faces an unprecedented challenge. 
 
@@ -25,7 +25,9 @@ If you do that and still think I'm wrong, then fair enough. Either way, please l
 
 ### Some of my work
 
-You can check out my writing on Medium [here](https://medium.com/@DavidWatsonBlog).
+I am the founder of Atomic Trends, a place for exploring what advanced nuclear will means for the 21st century. Check Atomic Trends out on [twitter](https://twitter.com/atomic_trends) or on [instagram](https://www.instagram.com/atomic_trends/).
+
+I do a lof of writing about energy and climate (among other things) on [Medium](https://medium.com/@DavidWatsonBlog).
 
 I wrote an [imagined 100-year review](https://medium.com/generation-atomic/2115-a-100-year-review-of-ecomodernism-43779c8f5d14) of the *Ecomodernism* movement.
 
@@ -59,4 +61,4 @@ Linkedin: <https://www.linkedin.com/in/davidjohnwatson/>
 
 Twitter: <https://twitter.com/ecopragmatist>
 
-![Forest scene]({{ site.baseurl }}/images/atom-forest.png)
+![Carbon free tea]({{ site.baseurl }}/images/carbon-free-tea.png)
