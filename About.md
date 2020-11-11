@@ -25,21 +25,15 @@ If you do that and still think I'm wrong, then fair enough. Either way, please l
 
 ### Some of my work
 
-I am the founder of Atomic Trends, a place for exploring what advanced nuclear will means for the 21st century. Check Atomic Trends out on [twitter](https://twitter.com/atomic_trends) or on [instagram](https://www.instagram.com/atomic_trends/).
+I am the founder of Atomic Trends, a place for exploring what advanced nuclear will mean for the 21st century. Check Atomic Trends out on [Twitter](https://twitter.com/atomic_trends) or on [Instagram](https://www.instagram.com/atomic_trends/).
 
-I do a lof of writing about energy and climate (among other things) on [Medium](https://medium.com/@DavidWatsonBlog).
+Check out my writing about energy and climate (among other things) on [Medium](https://medium.com/@DavidWatsonBlog).
 
-I wrote an [imagined 100-year review](https://medium.com/generation-atomic/2115-a-100-year-review-of-ecomodernism-43779c8f5d14) of the *Ecomodernism* movement.
+See me talk about the problem with [the way the nuclear industry brands itself](https://youtu.be/A7uLVqwlpn4?t=68).
 
-I asked [whether Walt Disney had the answer](https://medium.com/generation-atomic/walt-disney-and-nuclear-power-a-forgotten-history-736efd411c34) to climate change.
+Read my [letter in the Financial Times](https://www.ft.com/content/c68c8538-1a71-11e9-9e64-d150b3105d21) in response to the cancelling of the Wylfa Newydd project.
 
-Why is it that all the best sci-fi tech is [powered by nuclear](https://medium.com/generation-atomic/7-awesome-sci-fi-nuclear-reactors-6bea7419f683)?
-
-Serious question. What has a worse public image: [sharks or nuclear power]({{ site.baseurl }}/sharks/)?
-
-My [letter in the Financial Times](https://www.ft.com/content/c68c8538-1a71-11e9-9e64-d150b3105d21) in response to the cancelling of the Wylfa Newydd project.
-
-I was [interviewed for the Sustainability Times](https://www.sustainability-times.com/environmental-protection/un-mass-extinction-report-highlights-urgency-of-decarbonization/) about the UN's 2019 species mass extinction report.
+Have a look at my interview [for the Sustainability Times](https://www.sustainability-times.com/environmental-protection/un-mass-extinction-report-highlights-urgency-of-decarbonization/) about the UN's 2019 species mass extinction report.
 
 ----
 
