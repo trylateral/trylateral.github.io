@@ -29,11 +29,13 @@ I am the founder of Atomic Trends, a place for exploring what advanced nuclear w
 
 Check out my writing about energy and climate (among other things) on [Medium](https://medium.com/@DavidWatsonBlog).
 
+I talked with [Doctors for Nuclear Energy](https://www.doctorsfornuclearenergy.org/)'s Chris Keefer about nuclear and the UK's net zero ambitions on the [Decouple podcast](https://anchor.fm/chris15401/episodes/UK-decarbonisation-Legally-binding-but-precarious-Feat-David-Watson-er2to2).
+
 See me talk about the problem with [the way the nuclear industry brands itself](https://youtu.be/A7uLVqwlpn4?t=68).
 
-Read my [letter in the Financial Times](https://www.ft.com/content/c68c8538-1a71-11e9-9e64-d150b3105d21) in response to the cancelling of the Wylfa Newydd project.
-
 Have a look at my interview [for the Sustainability Times](https://www.sustainability-times.com/environmental-protection/un-mass-extinction-report-highlights-urgency-of-decarbonization/) about the UN's 2019 species mass extinction report.
+
+<iframe src="https://anchor.fm/chris15401/embed/episodes/UK-decarbonisation-Legally-binding-but-precarious-Feat-David-Watson-er2to2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ----
 
